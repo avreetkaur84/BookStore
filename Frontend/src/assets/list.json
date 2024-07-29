@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "type": "Novel",
+        "title": "It Starts With Us",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 2,
+        "type": "Science Fiction",
+        "title": "Dune",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 3,
+        "type": "Fantasy",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 4,
+        "type": "Mystery",
+        "title": "The Girl with the Dragon Tattoo",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 5,
+        "type": "Biography",
+        "title": "Steve Jobs",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 6,
+        "type": "Self-Help",
+        "title": "Atomic Habits",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 7,
+        "type": "Historical Fiction",
+        "title": "The Book Thief",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 8,
+        "type": "Romance",
+        "title": "Pride and Prejudice",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 9,
+        "type": "Thriller",
+        "title": "Gone Girl",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 10,
+        "type": "Non-Fiction",
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": 10,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 11,
+        "type": "Horror",
+        "title": "The Shining",
+        "price": 8.99,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 12,
+        "type": "Science Fiction",
+        "title": "Neuromancer",
+        "price": 7.49,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 13,
+        "type": "Classic",
+        "title": "To Kill a Mockingbird",
+        "price": 5.99,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 14,
+        "type": "Drama",
+        "title": "The Great Gatsby",
+        "price": 4.99,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 15,
+        "type": "Fantasy",
+        "title": "The Hobbit",
+        "price": 6.99,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 16,
+        "type": "Non-Fiction",
+        "title": "Educated",
+        "price": 9.49,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 17,
+        "type": "Psychological",
+        "title": "The Silent Patient",
+        "price": 8.49,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 18,
+        "type": "Young Adult",
+        "title": "The Fault in Our Stars",
+        "price": 5.99,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 19,
+        "type": "Mystery",
+        "title": "Big Little Lies",
+        "price": 7.99,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    },
+    {
+        "id": 20,
+        "type": "Self-Help",
+        "title": "The Power of Habit",
+        "price": 6.99,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.114238939.1715688902&semt=sph"
+    }
+]

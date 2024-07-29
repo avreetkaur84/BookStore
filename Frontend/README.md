@@ -1,0 +1,2 @@
+#PROBLEMS
+1. Dark and light mode is not working. Local storage is not showing theme in key value, only light is being shown as key, nothign as value. So, state is also not changing of theme. (1:50:00 video time)
