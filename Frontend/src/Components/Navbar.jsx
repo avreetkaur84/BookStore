@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
+import Login from './Login';
 
 function Navbar() {
   const [sticky, setSticky] = useState(false)
@@ -69,9 +70,9 @@ function Navbar() {
         <div className="navbar-center hidden lg:flex navbar-end">
           <ul className="menu menu-horizontal px-1">
             <li><Link to="/">Home</Link></li>
-              <li><Link to="/courses">Course</Link></li>
-              <li><Link to="/contact">Contact</Link></li>
-              <li><Link to="/about">About</Link></li>
+            <li><Link to="/courses">Course</Link></li>
+            <li><Link to="/contact">Contact</Link></li>
+            <li><Link to="/about">About</Link></li>
           </ul>
         </div>
 
@@ -117,7 +118,10 @@ function Navbar() {
         </label>
 
         <div className="sm:navbar-end">
-          <a className="ml-2 bg-black text-white px-3 py-2 rounded-lg">Login</a>
+          <a className="ml-2 bg-black text-white px-3 py-2 rounded-lg cursor-pointer"
+             onClick={()=>document.getElementById('my_modal_3').showModal()}
+          >Login</a>
+          <Login/>
         </div>
       </div>
     </div>
